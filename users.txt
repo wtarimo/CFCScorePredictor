@@ -1,0 +1,6 @@
+William Tarimo|naspipper|NAS!pipper|user|13|37.0
+Admin/Manager|admin|NAS!pipper|admin|0|0.0
+Johhny Johhanson|willz|willz|user|1|8.0
+Kesey Sar|ksar|ksar|user|6|50.0
+John John|johhny|NAS!pipper|user|1|10.0
+Ibrahim Alen|ibra|NAS!pipper|user|1|10.0

@@ -1,0 +1,7 @@
+4
+6|Southampton FC|1/3/2013 7:45|Home|[]|[]|[]
+5|Leeds United|12/28/2012 10:00|Home|[]|[]|[]
+4|Corithians FC|12/16/2012 5:30|Yokohama|[]|[]|[]
+3|Monterey FC|12/13/2012 5:30|Yokohama|[3, 1]|[9, 11, 0]|[21]
+2|Newcastle United|12/19/2012 10:00am|Home|[4, 2]|[9, 11, 27, 17]|[12]
+1|Sunderland FC|12/8/2012 10:00|Away|[3, 1]|[9, 9, 11]|[12]
